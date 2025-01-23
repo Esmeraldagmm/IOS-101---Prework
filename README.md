@@ -1,5 +1,5 @@
 # IOS-101-Prework
-Submitted by: Esmeralda Gonzalez Menera
+Submitted by: **Esmeralda Gonzalez Menera**
 
 **Name of your app** is an app that... [TODO] 
 
