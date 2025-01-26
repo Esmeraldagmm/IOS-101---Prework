@@ -1,4 +1,4 @@
-# IOS-101-Prework
+# IOS 101-Prework
 Submitted by: **Esmeralda Gonzalez Menera**
 
 **Colorful Intro** is a simple yet creative project that showcases my background and career aspirations. It has interactive buttons to randomly change the app's background and change the color of the text.
@@ -11,6 +11,7 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
+- [x] Tapping the button changes the text color to a random color
  
 ## Video Walkthrough
 
@@ -23,6 +24,29 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
+
+Instagram
+* Stories and reels to share content. 
+* Visually appealing. 
+
+YouTube
+* A variety of videos covering everything from education to entertainment. 
+* Tailored suggestions based on viewing history. 
+
+Spotify
+* Create playlists and share with friends.  
+* Personalized playlists based on listening habits.
+
+LinkedIn
+* Connect with other professionals and companies. 
+* Allows users to display their skills, certifications, and accomplishments. 
+
+Google Calendar 
+* Send reminders and notifications to help users stay on top of their schedule. 
+* Visually appealing
+
+I would like to build a campus navigator app to help students navigate their campus with ease. It features an interactive map with building names, classroom locations, and points of interest like dining halls, libraries, and parking lots, along with their hours of operation. The app also integrates event schedules, providing routes between classes and estimated travel times. Real-time updates on availability would allow users to locate computer labs, printers, or study rooms available around campus. It is ideal for large campuses to help simplify the student experience and enhance campus life. 
+
 
 ## Notes
 
