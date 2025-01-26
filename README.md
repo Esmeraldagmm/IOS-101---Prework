@@ -1,9 +1,9 @@
 # IOS-101-Prework
 Submitted by: **Esmeralda Gonzalez Menera**
 
-**Name of your app** is an app that... [TODO] 
+**Colorful Intro** is a simple yet creative project that showcases my background and career aspirations. It has interactive buttons to randomly change the app's background and change the color of the text.
 
-Time spent: 2 hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
@@ -14,9 +14,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/530c0caffdaf4f8c83bb1f07108a7146">
+    </a>
+    <a href="https://www.loom.com/share/530c0caffdaf4f8c83bb1f07108a7146">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/530c0caffdaf4f8c83bb1f07108a7146-470a2e8d75a43ff9-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
