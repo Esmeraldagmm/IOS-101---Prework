@@ -47,14 +47,9 @@ Google Calendar
 
 I would like to build a campus navigator app to help students navigate their campus with ease. It features an interactive map with building names, classroom locations, and points of interest like dining halls, libraries, and parking lots, along with their hours of operation. The app also integrates event schedules, providing routes between classes and estimated travel times. Real-time updates on availability would allow users to locate computer labs, printers, or study rooms available around campus. It is ideal for large campuses to help simplify the student experience and enhance campus life. 
 
-
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
