@@ -3,7 +3,7 @@ Submitted by: **Esmeralda Gonzalez Menera**
 
 **Colorful Intro** is a simple yet creative project that showcases my background and career aspirations. It has interactive buttons to randomly change the app's background and change the color of the text.
 
-Time spent: 1 hour spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
